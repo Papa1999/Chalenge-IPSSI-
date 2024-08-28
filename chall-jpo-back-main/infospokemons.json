@@ -1,0 +1,744 @@
+[
+    {
+        "id": 1, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
+        },
+        "name": "bulbasaur",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "grass"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "poison"
+                }
+            }
+        ]
+    },
+    {
+        "id": 2, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
+        },
+        "name": "ivysaur",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "grass"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "poison"
+                }
+            }
+        ]
+    },
+    {
+        "id": 3, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png"
+        },
+        "name": "venusaur",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "grass"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "poison"
+                }
+            }
+        ]
+    },
+    {
+        "id": 4, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
+        },
+        "name": "charmander",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "fire"
+                }
+            }
+        ]
+    },
+    {
+        "id": 5, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png"
+        },
+        "name": "charmeleon",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "fire"
+                }
+            }
+        ]
+    },
+    {
+        "id": 6, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png"
+        },
+        "name": "charizard",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "fire"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "flying"
+                }
+            }
+        ]
+    },
+    {
+        "id": 7, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png"
+        },
+        "name": "squirtle",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "water"
+                }
+            }
+        ]
+    },
+    {
+        "id": 8, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/8.png"
+        },
+        "name": "wartortle",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "water"
+                }
+            }
+        ]
+    },
+    {
+        "id": 9, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png"
+        },
+        "name": "blastoise",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "water"
+                }
+            }
+        ]
+    },
+    {
+        "id": 10, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10.png"
+        },
+        "name": "cartepie",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "bug"
+                }
+            }
+        ]
+    },
+    {
+        "id": 11, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/11.png"
+        },
+        "name": "metapod",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "bug"
+                }
+            }
+        ]
+    },
+    {
+        "id": 12, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png"
+        },
+        "name": "butterfree",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "bug"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "flying"
+                }
+            }
+        ]
+    },
+    {
+        "id": 13, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/13.png"
+        },
+        "name": "weedle",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "bug"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "poison"
+                }
+            }
+        ]
+    },
+    {
+        "id": 14, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/14.png"
+        },
+        "name": "kakuna",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "bug"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "poison"
+                }
+            }
+        ]
+    },
+    {
+        "id": 15, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/15.png"
+        },
+        "name": "beedrill",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "bug"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "poison"
+                }
+            }
+        ]
+    },
+    {
+        "id": 16, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/16.png"
+        },
+        "name": "pidgey",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "flying"
+                }
+            }
+        ]
+    },
+    {
+        "id": 17, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/17.png"
+        },
+        "name": "pidgeotto",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "flying"
+                }
+            }
+        ]
+    },
+    {
+        "id": 18, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/18.png"
+        },
+        "name": "pidgeot",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "flying"
+                }
+            }
+        ]
+    },
+    {
+        "id": 19, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/19.png"
+        },
+        "name": "rattata",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "normal"
+                }
+            }
+        ]
+    },
+    {
+        "id": 20, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/20.png"
+        },
+        "name": "raticate",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "normal"
+                }
+            }
+        ]
+    },
+    {
+        "id": 21, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/21.png"
+        },
+        "name": "spearow",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "flying"
+                }
+            }
+        ]
+    },
+    {
+        "id": 22, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/22.png"
+        },
+        "name": "fearow",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "flying"
+                }
+            }
+        ]
+    },
+    {
+        "id": 23, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/23.png"
+        },
+        "name": "Ekans",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "poison"
+                }
+            }
+        ]
+    },
+    {
+        "id": 24, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/24.png"
+        },
+        "name": "arbok",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "poison"
+                }
+            }
+        ]
+    },
+    {
+        "id": 25, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/25.png"
+        },
+        "name": "pikachu",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "electric"
+                }
+            }
+        ]
+    },
+    {
+        "id": 26, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/26.png"
+        },
+        "name": "raichu",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "electric"
+                }
+            }
+        ]
+    },
+    {
+        "id": 27, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/27.png"
+        },
+        "name": "sandshrew",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "ground"
+                }
+            }
+        ]
+    },
+    {
+        "id": 28, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/28.png"
+        },
+        "name": "sandslash",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "ground"
+                }
+            }
+        ]
+    },
+    {
+        "id": 29, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/29.png"
+        },
+        "name": "nidoran-f",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "poison"
+                }
+            }
+        ]
+    },
+    {
+        "id": 30, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/30.png"
+        },
+        "name": "nidorina",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "poison"
+                }
+            }
+        ]
+    },
+    {
+        "id": 31, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/31.png"
+        },
+        "name": "nidoqueen",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "poison"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "ground"
+                }
+            }
+        ]
+    },
+    {
+        "id": 32, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/32.png"
+        },
+        "name": "nidoran-m",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "poison"
+                }
+            }
+        ]
+    },
+    {
+        "id": 33, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/33.png"
+        },
+        "name": "nidorino",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "poison"
+                }
+            }
+        ]
+    },
+    {
+        "id": 34, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/34.png"
+        },
+        "name": "nidoking",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "poison"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "ground"
+                }
+            }
+        ]
+    },
+    {
+        "id": 35, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/35.png"
+        },
+        "name": "clefairy",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "fairy"
+                }
+            }
+        ]
+    },
+    {
+        "id": 36, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/36.png"
+        },
+        "name": "clefable",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "fairy"
+                }
+            }
+        ]
+    },
+    {
+        "id": 37, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/37.png"
+        },
+        "name": "vulpix",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "fire"
+                }
+            }
+        ]
+    },
+    {
+        "id": 38, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/38.png"
+        },
+        "name": "ninetales",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "fire"
+                }
+            }
+        ]
+    },
+    {
+        "id": 39, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/39.png"
+        },
+        "name": "jigglypuff",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "fairy"
+                }
+            }
+        ]
+    },
+    {
+        "id": 40, 
+        "sprites":{
+            "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+            "back_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/40.png"
+        },
+        "name": "wigglypuff",
+        "types":[
+            {
+                "slot":1,
+                "type":{
+                    "name": "normal"
+                }
+            },
+            {
+                "slot": 2,
+                "type":{
+                    "name": "fairy"
+                }
+            }
+        ]
+    }
+]
